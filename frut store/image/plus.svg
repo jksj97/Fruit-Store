@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 14 14">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #000;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <g id="그룹_1" data-name="그룹 1" transform="translate(-396 -867)">
+    <path id="패스_3" data-name="패스 3" class="cls-1" d="M406,866.454v14" transform="translate(-3 0.546)"/>
+    <line id="선_2" data-name="선 2" class="cls-1" x2="14" transform="translate(396 874)"/>
+  </g>
+</svg>
